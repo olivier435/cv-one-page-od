@@ -1,0 +1,7 @@
+# Fichiers d'environnement (ne jamais versionner)
+.env.local
+.env.prod
+
+# Fichiers sensibles
+composer.lock
+/vendor/
