@@ -104,3 +104,5 @@ composer install
 
 ## 🌐 Démo en ligne
 Projet déployé automatiquement sur **GitHub Pages** :
+
+🔗 [https://olivier435.github.io/cv-one-page-od/](https://olivier435.github.io/cv-one-page-od/)
